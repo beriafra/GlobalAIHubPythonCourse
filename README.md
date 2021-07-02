@@ -1,3 +1,4 @@
+![22695620937723](https://user-images.githubusercontent.com/82048237/124274892-7f9d2500-db4a-11eb-8410-2ef23ca3ea57.png)
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
